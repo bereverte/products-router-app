@@ -1,0 +1,88 @@
+export const db = [
+  {
+    id: 1,
+    name: "Camiseta Básica Blanca",
+    image: "product_image",
+    description: "Camiseta básica de algodón en color blanco, perfecta para un look casual.",
+    price: 12,
+  },
+  {
+    id: 2,
+    name: "Pantalón Vaquero Slim Fit",
+    image: "product_image",
+    description: "Pantalón vaquero de corte slim fit, ideal para combinar con cualquier prenda.",
+    price: 39.95,
+  },
+  {
+    id: 3,
+    name: "Sudadera con Capucha",
+    image: "product_image",
+    description: "Sudadera con capucha y bolsillo frontal, disponible en varios colores.",
+    price: 45,
+  },
+  {
+    id: 4,
+    name: "Chaqueta de Cuero",
+    image: "product_image",
+    description: "Chaqueta de cuero auténtico con forro interior, perfecta para los días frescos.",
+    price: 130,
+  },
+  {
+    id: 5,
+    name: "Vestido Floral",
+    image: "product_image",
+    description: "Vestido ligero con estampado floral, ideal para la primavera y verano.",
+    price: 55,
+  },
+  {
+    id: 6,
+    name: "Zapatillas Deportivas",
+    image: "product_image",
+    description:
+      "Zapatillas deportivas con suela de goma, cómodas y perfectas para cualquier actividad.",
+    price: 110,
+  },
+  {
+    id: 7,
+    name: "Abrigo de Lana",
+    image: "product_image",
+    description: "Abrigo largo de lana con botones, perfecto para los días fríos.",
+    price: 160,
+  },
+  {
+    id: 8,
+    name: "Gorra Estilo Baseball",
+    image: "product_image",
+    description: "Gorra de algodón con visera curva, disponible en varios colores.",
+    price: 15,
+  },
+  {
+    id: 9,
+    name: "Falda Plisada",
+    image: "product_image",
+    description: "Falda plisada de longitud media, ideal para un look elegante y femenino.",
+    price: 26,
+  },
+  {
+    id: 10,
+    name: "Cinturón de Cuero",
+    image: "product_image",
+    description: "Cinturón de cuero auténtico con hebilla metálica, disponible en negro y marrón.",
+    price: 12,
+  },
+  {
+    id: 11,
+    name: "Blazer Elegante",
+    image: "product_image",
+    description:
+      "Blazer de corte ajustado, perfecto para ocasiones formales o para un look de oficina.",
+    price: 105,
+  },
+  {
+    id: 12,
+    name: "Pantalones Cortos",
+    image: "product_image",
+    description: "Pantalones cortos de algodón ligeros, ideales para el verano.",
+    price: 37.5,
+  },
+]
